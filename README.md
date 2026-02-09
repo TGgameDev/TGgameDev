@@ -2,6 +2,12 @@
 
 **Backend Developer | Casino Web Developer | Telegram Bot Developer**
 
+<p>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
 I build **secure, scalable, and high-performance systems** focused on  
 🎰 casino platforms, 🤖 Telegram bots, and ⚙️ Node.js backends.
 
@@ -12,7 +18,6 @@ I build **secure, scalable, and high-performance systems** focused on
 - **Databases:** MySQL, MongoDB  
 - **Telegram:** Bots, Mini Apps, Webhooks  
 - **Payments:** Crypto, FaucetPay, TON, TRX  
-- **Tools:** Git, REST APIs, Linux
 
 ---
 
@@ -25,14 +30,10 @@ I build **secure, scalable, and high-performance systems** focused on
 ---
 
 ## 📌 Current Focus
-- Advanced Telegram Mini Apps  
+- Telegram Mini Apps  
 - Scalable Node.js APIs  
 - Crypto payment automation  
 
 ---
-
-## 📫 Contact
-- Telegram: **@yourusername**
-- GitHub: **@codebeast**
 
 > *“Clean code. Strong logic. Real systems.”* ⚡

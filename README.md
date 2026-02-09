@@ -2,11 +2,8 @@
 
 **Backend Developer | Casino Web Developer | Telegram Bot Developer**
 
-<p>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Contact%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Now-26A5E4?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
+
 
 I build **secure, scalable, and high-performance systems** focused on  
 🎰 casino platforms, 🤖 Telegram bots, and ⚙️ Node.js backends.
